@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JixCan/tesla-footer-generator/static/css/main.f855e6bc.css",
+    "main.js": "/JixCan/tesla-footer-generator/static/js/main.dbb88508.js",
+    "static/js/787.d4aba7ab.chunk.js": "/JixCan/tesla-footer-generator/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/JixCan/tesla-footer-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JixCan/tesla-footer-generator/index.html",
+    "main.f855e6bc.css.map": "/JixCan/tesla-footer-generator/static/css/main.f855e6bc.css.map",
+    "main.dbb88508.js.map": "/JixCan/tesla-footer-generator/static/js/main.dbb88508.js.map",
+    "787.d4aba7ab.chunk.js.map": "/JixCan/tesla-footer-generator/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dbb88508.js"
+  ]
+}
